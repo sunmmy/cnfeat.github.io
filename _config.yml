@@ -1,28 +1,27 @@
 # Site settings
-title: 读立写生
+title: LIZ
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "不气馁，有召唤，爱自由"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "http://www.imindhacker.com"  
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " 袅袅"
+  email: zengli100@hotmail.com
+  bio: "Thinking, Creation, Innovation"
 
 # Data
 gavatar: http://openmindclub.qiniudn.com/omt/GavatarCNFeat.png
 favicon: img/favicon.png
 
 douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+twitter_username: freebird
+github_username: sunmmy
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
-
+weibo_username: 单机版的曾李与袅袅 
+zhihu_username: 袅袅
 # Build settings  
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
@@ -42,7 +41,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CNFeat"
+      author: "袅袅"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
